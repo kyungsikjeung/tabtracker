@@ -1,3 +1,17 @@
+
+1. git repository 만들기..
+2. C:\Users\jk\
+3. mkdir Workspace
+4. cd Workspace
+5. git init 
+6. git remote add origin https://github.com/kyungsikjeung/tabtracker.git
+7.  git pull origin master
+8.  npm install -g vue-cli
+9.  vue init webpack client
+10. git add .
+11. git commit -m "test"
+12. git push origin +master
+
 # vuetest
 
 > firsttiral
